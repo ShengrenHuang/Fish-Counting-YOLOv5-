@@ -8,3 +8,8 @@ Transfer learning
 
 https://user-images.githubusercontent.com/108604868/195237139-a51fe585-8c54-4733-a32a-42f85e2e1081.mp4
 
+
+
+## Reference 
+[1] https://medium.com/analytics-vidhya/training-a-custom-object-detection-model-with-yolo-v5-aa9974c07088
+[2] https://public.roboflow.com/object-detection/aquarium
