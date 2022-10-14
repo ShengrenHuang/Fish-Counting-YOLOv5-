@@ -2,6 +2,8 @@
 
 此部分的練習是利用Yolov5 來設計一個魚群數量偵測演算法，透過yolov5辨識魚群並標記魚群，依照標記的數量來計算魚群的總數。在Yolov5的訓練中，我們擷取[]的水族箱圖庫做訓練，將預先訓練好的Yolov5s 做 transfer learning ，在短時間將模型訓練好，底下為魚群數量偵測的結果。
 
+In this practice, we aim to employ the well-knowned object detection algorithm --- Yolo v5 [1] to engage fish counting problem.
+
 Model: Yolov5s
 
 Transfer learning
@@ -11,5 +13,6 @@ https://user-images.githubusercontent.com/108604868/195237139-a51fe585-8c54-4733
 
 
 ## Reference 
-[1] https://medium.com/analytics-vidhya/training-a-custom-object-detection-model-with-yolo-v5-aa9974c07088  
-[2] https://public.roboflow.com/object-detection/aquarium
+[1] https://github.com/ultralytics/yolov5
+[2] https://medium.com/analytics-vidhya/training-a-custom-object-detection-model-with-yolo-v5-aa9974c07088  
+[3] https://public.roboflow.com/object-detection/aquarium
